@@ -1,0 +1,4 @@
+# Project exclude paths
+/islamic/.gradle/
+/islamic/app/build/
+/islamic/app/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/
